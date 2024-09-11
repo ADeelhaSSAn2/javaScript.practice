@@ -9,3 +9,6 @@ console.log(Myname)
 num =22;
 price =99.9
 console.log(num , price)
+
+let details = 123
+console.log(details)
